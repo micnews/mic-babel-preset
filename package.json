@@ -1,6 +1,6 @@
 {
   "name": "mic-babel-preset",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The babel preset we use at Mic",
   "main": "dist/index.js",
   "scripts": {
