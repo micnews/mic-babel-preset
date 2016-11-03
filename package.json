@@ -2,7 +2,7 @@
   "name": "mic-babel-preset",
   "version": "1.0.0",
   "description": "The babel preset we use at Mic",
-  "main": "lib/index.js",
+  "main": "dist/index.js",
   "scripts": {
     "test": "miclint",
     "build": "rm -rf dist && mkdir -p dist && babel lib --out-dir dist",
